@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Tayyab Ahmer</h1>
-<h3 align="center">A passionate Backend Developer from Pakistan </h3>
 <h3 align="center">
   A passionate Backend Developer from Pakistan
   <img src="https://flagcdn.com/w40/pk.png" width="25" />
