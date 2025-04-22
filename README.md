@@ -34,8 +34,8 @@
 
 ### 📫 Contact Me
 
-- LinkedIn: [linkedin.com/in/tayyabahmer](https://linkedin.com/in/tayyabahmer)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- LinkedIn: [linkedin.com/in/tayyabahmer](https://www.linkedin.com/in/tayyab-ahmer-6bb016252/)
+- GitHub: [github.com/yourusername](https://github.com/Tayyab-Ahmer)
 
 ---
 
