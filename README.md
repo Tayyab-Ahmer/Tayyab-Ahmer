@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Tayyab Ahmer</h1>
-<h3 align="center">A passionate Backend Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate Backend Developer from Pakistan </h3>
+<h3 align="center">
+  A passionate Backend Developer from Pakistan
+  <img src="https://flagcdn.com/w40/pk.png" width="25" />
+</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200px" />
-</p>
 ---
 
 ### 🚀 About Me
