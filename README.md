@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 💼 **2 years** building end-to-end web applications
-- 🏢 Currently at **Qodeon Lab**, Gujrat — shipping WhatsApp automation & delivery platforms
+- 🏢 AI first approach developer
 - 🤖 Passionate about **AI integration**, real-time systems & scalable architecture
 - 🎓 BSc Computer Science — University of Gujrat
 - 🌍 Based in Gujrat, Pakistan
