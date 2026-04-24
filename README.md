@@ -1,77 +1,69 @@
 <h1 align="center">Hi there 👋, I'm Tayyab Ahmer</h1>
+
 <h3 align="center">
-  Backend & Full Stack Developer from Pakistan <img src="https://flagcdn.com/w40/pk.png" width="25" />
+  Full Stack & Backend Developer from Pakistan
+  <img src="https://flagcdn.com/w40/pk.png" width="20" />
 </h3>
 
 <p align="center">
-  <i>Crafting scalable backend architectures, seamless integrations, and end-to-end solutions.</i>
-</p>
-
----
-
-### 🚀 About Me
-
-- 💻 I build robust applications focusing on clean code, scalable infrastructure, and database optimization.
-- 🔧 Currently working extensively with **Node.js, NestJS, Prisma, and PostgreSQL**.
-- 🌐 Experienced in complex third-party API integrations (WhatsApp Cloud, Google Maps, SMS gateways).
-- 🏗️ Comfortable navigating both monolithic architectures and monorepo structures.
-- 🌱 Continuously expanding my Full Stack capabilities to deliver seamless user experiences from database to UI.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Backend & Database**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeORM-FF4785?style=for-the-badge&logo=typeorm&logoColor=white" />
-</p>
-
-**Infrastructure & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity_IDE-000000?style=for-the-badge&logo=coding&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-**Frontend (Full Stack Readiness)**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-### 📦 Featured Work
-
-- **teaboi-api**: A robust backend architecture built utilizing a structured monorepo environment.
-- *(Add another frontend or full-stack project here to showcase versatility)*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/tayyabahmer">
-    <img src="https://github-readme-stats.vercel.app/api?username=tayyabahmer&show_icons=true&theme=transparent&hide_border=true&title_color=E0234E&icon_color=E0234E" alt="Tayyab's GitHub Stats" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9¢er=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Engineer;NestJS+%7C+Next.js+%7C+PostgreSQL;Building+scalable+web+apps" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 🧑‍💻 About Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/tayyab-ahmer-6bb016252/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+- 💼 **2 years** building end-to-end web applications
+- 🏢 Currently at **Qodeon Lab**, Gujrat — shipping WhatsApp automation & delivery platforms
+- 🤖 Passionate about **AI integration**, real-time systems & scalable architecture
+- 🎓 BSc Computer Science — University of Gujrat
+- 🌍 Based in Gujrat, Pakistan
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logo=redis&logoColor=white)
+
+**Database & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 **Zonic** | WhatsApp automation platform — AI chatbots, appointment booking (Cal.com), Gemini & OpenAI integration | NestJS, Next.js, Prisma, Supabase |
+| 🍵 **Teaboi** | On-demand tea delivery with real-time order tracking, vendor portals & multi-tenant auth | Next.js, Socket.io, PostgreSQL |
+| 🔍 **Transaction Monitor** | Fraud detection backend with sanction-list API integration & automated case workflows | NestJS, PostgreSQL |
+| 💳 **Vaulex** | Digital wallet — internal & external fund transfers with real-time transaction handling | NestJS, Supabase |
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyab-ahmer-6bb016252/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tayyab.ahmer111@gmail.com)
