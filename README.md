@@ -5,12 +5,6 @@
   <img src="https://flagcdn.com/w40/pk.png" width="20" />
 </h3>
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9¢er=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Engineer;NestJS+%7C+Next.js+%7C+PostgreSQL;Building+scalable+web+apps" alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
